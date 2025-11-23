@@ -1,4 +1,9 @@
 # FLAPPY BIRD (JAVA + JAVAFX)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Java](https://img.shields.io/badge/Java-24-blue)
+![JavaFX](https://img.shields.io/badge/JavaFX-21.0.6-lightgrey)
+![Maven](https://img.shields.io/badge/Maven-3.8.8-blue)
+
 A remake of the classic Flappy Bird game developed in Java using JavaFX.
 
 # SCREENSHOTS
