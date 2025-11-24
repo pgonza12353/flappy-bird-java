@@ -34,7 +34,7 @@ Requirements:
 Running with IntelliJ
 1. Clone the repo
 2. Import as a Maven project
-3. Set VM options (replace the paths with your local directories):
+3. Set VM options (replace the paths with your local directories): \
   --module-path "/path/to/javafx-sdk-21.0.6/lib:/path/to/FlappyBird/target/classes" \
   --add-modules javafx.controls,javafx.fxml \
   --enable-native-access=javafx.graphics
